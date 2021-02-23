@@ -1,1 +1,2 @@
-# Olympics-Event-Classifier
+# Exploring K-NN Classification Using Olympics Data
+This project is written solely in python using Jupyter Notebook. I first look at the power of different types of k-nn classification with the iris dataset. I then use features given to me by the 2016 Rio Olympics roster to predict the sport an athlete would compete in given age, height, and weight. I calculated Euclidean distance between nodes and displayed color maps to proved my predictive abilities as well.
